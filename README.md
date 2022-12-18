@@ -4,4 +4,4 @@
 
 ### PC Web版
 
-https://catvodtvofficial.github.io/CatVodTVJsonEditor/
+https://tianjiangqiji.github.io/CatVodTVJsonEditor/
